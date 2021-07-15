@@ -17,7 +17,7 @@
 
 ### 2️⃣ Validation of Information ###
 > After all of the information is filled out, the user will be able to click on the "Create Object" button at the bottom of the screen to display their results. 
->![](https://i.imgur.com/N1H7kZF.jpg)
+![](https://i.imgur.com/N1H7kZF.jpg)
 
 ### 3️⃣ Exiting a Form ###
 > If the user has finished using the program and/or is ready to leave the program, they will be able to click the exit button at the bottom of the main screen which will automatically exit the user from the program.
